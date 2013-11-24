@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Ken's Jekyll Site
 ---
 
 <div id="home">
@@ -10,5 +10,6 @@ title: Your New Jekyll Site
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-  <a href="/info.html">And antoher link</a>
+  <a href="/info.html">And another link</a>
+  <p>Debug is {{ site.develop }}</p>
 </div>
