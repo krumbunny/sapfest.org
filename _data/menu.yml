@@ -1,0 +1,20 @@
+- title: Home
+  id: home
+  href: /index.html
+
+- title: About
+  id: about
+  href: /info/about.html
+
+- title: 2013 Awards
+  id: awards
+  href: /info/awards.html
+
+- title: News
+  id: news
+  href: /blog.html
+
+- title: Apply
+  id: apply
+  href: /apply/apply.html
+

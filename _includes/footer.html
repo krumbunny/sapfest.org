@@ -1,17 +1,46 @@
-<div class="footer">
-  <div class="contact">
-    <p>
-      Your Name
-      <br />What You Are
-      <br />you@example.com
-    </p>
+<footer>
+  <div class="contenttable">
+    <div id='footer1'>
+      <p>St. Anthony Park Library Association
+        <br />2245 Como Avenue
+        <br />Saint Paul, MN 55108</p>
+      <p>612-564-ARTS (612-564-2787)</p>
+      <script>
+        var a = new Array('val.org', 'fest@st', 'arts', 'anthonyparkartsfesti');
+        document.write(a[2] + a[1] + a[3] + a[0]);
+      </script>
+      <p>Website
+        <a href="/info/website.html">details</a>
+        <br />Copyright © 2013 St. Anthony Park Library Association.</p>
+    </div>
+    <div id='footer2'>
+      <p>
+        <a class='twitter-follow-button' 
+        data-lang='en' data-show-count='false' data-size='large' 
+        href='https://twitter.com/SAPArtsFestival'>Follow @SAPArtsFestival</a>
+      </p>
+      <p>
+        <a href='http://www.facebook.com/pages/Saint-Anthony-Park-Arts-Festival/229315300478251' 
+          target='_TOP' title='Saint Anthony Park Arts Festival'>
+          <img alt='facebook'
+           src='http://badge.facebook.com/badge/229315300478251.1446.1948535714.png' 
+           style='border: 0px;'>
+        </a>
+      </p>
+    </div>
   </div>
-  <div class="contact">
-    <p>
-      <a href="https://github.com/yourusername">github.com/yourusername</a>
-      <br />
-      <a href="https://twitter.com/yourusername">twitter.com/yourusername</a>
-      <br />
-    </p>
-  </div>
-</div>
+</footer>
+<script>
+  // Google Analytics
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28752604-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+</script>
