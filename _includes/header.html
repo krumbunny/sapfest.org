@@ -18,23 +18,14 @@
 </div>
 <nav>
   <ul>
+    {% for menu in site.data.topmenu %}
     <li>
-      <a href='/index.html' id='home'>Home</a>
+      {% if menu.id == page.top_menu_id %}
+      <a href="{{ menu.href }}" id="{{ menu.id }}" class="on">{{ menu.title }}</a>
+      {% else %}
+      <a href="{{ menu.href }}" id="{{ menu.id }}">{{ menu.title }}</a>
+      {% endif %}
     </li>
-    <li>
-      <a href='/info/index.html' id='info'>About</a>
-    </li>
-    <li>
-      <a href='/info/awards2013.html' id='awards'>2013 Awards</a>
-    </li>
-    <li>
-      <a href='/info/news.html' id='news'>News</a>
-    </li>
-    <li>
-      <a href='/library/index.html' id='library'>The Library</a>
-    </li>
-    <li>
-      <a href='/process/index.html' id='process'>Apply</a>
-    </li>
+    {% endfor %}
   </ul>
 </nav>

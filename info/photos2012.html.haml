@@ -1,0 +1,9 @@
+---
+layout: info
+title: St. Anthony Park Arts Festival - Photos 2012
+top_menu_id: info
+menu_title:
+---
+.photogrid
+  - photo_list('images/photos2012').each do |photo|
+    %img{:src => photo.url}
