@@ -1,10 +1,9 @@
 ---
 title: St. Anthony Park Arts Festival - Vendors
-layout: process
-top_menu_id: process
-menu_title: Vendors
+layout: apply
+top_menu_id: apply
 ---
-### Vendor Information
+## Vendor Information
 
 We have the vendors we need for 2013. Please contact us next winter for the 2014 show.
 

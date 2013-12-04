@@ -1,8 +1,7 @@
 ---
 title: St. Anthony Park Arts Festival - Frequently Asked Questions
-layout: process
-top_menu_id: process
-menu_title: FAQ
+layout: apply
+top_menu_id: apply
 ---
 ## Artist Frequently Asked Questions
 

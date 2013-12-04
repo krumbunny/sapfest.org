@@ -1,15 +1,14 @@
 ---
 title: St. Anthony Park Arts Festival - Jury Process
-layout: process
-top_menu_id: process
-menu_title: Application Process
+layout: apply
+top_menu_id: apply
 ---
 ## The SAP Arts Festival Application Process
 
 The St. Anthony Park Arts Festival is a juried art fair. 
 We appreciate the hard work and 
 skill involved in making fine craft and art, and we aim to treat 
-all applications with respect. 
+all applications equally and with care. 
 Artists will be  judged by experienced art professionals on the basis
 of their images and statement.
 

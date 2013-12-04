@@ -1,20 +1,24 @@
-- title: Home
-  id: home
-  href: /index.html
-
 - title: About
   id: about
   href: /info/index.html
 
-- title: 2013 Awards
+- title: Contact
+  id: contact
+  href: /info/contact.html
+
+- title: Last Year's Awards (2013)
   id: awards
-  href: /info/awards.html
+  href: /info/awards2013.html
 
-- title: News
-  id: news
-  href: /blog.html
+- title: Last Year's Artists (2013)
+  id: awards
+  href: /info/artists2013.html
 
-- title: Apply
-  id: apply
-  href: /apply/apply.html
+- title: Directions
+  id: directions
+  href: /info/directions.html
+
+- title: Press Release (2013)
+  id: press
+  href: /info/press.html
 

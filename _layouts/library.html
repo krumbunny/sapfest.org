@@ -1,0 +1,18 @@
+---
+layout: basic
+---
+<div class="contenttable">
+  <article>
+    {{ content }} 
+  </article>
+  <aside>
+    <h3>Library Information:</h3>
+    <ul class="nav">
+      {% for menu in site.data.librarymenu %}
+      <li>
+        <a href="{{ menu.href }}" id="{{ menu.id }}">{{ menu.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </aside>
+</div>

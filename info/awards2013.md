@@ -15,7 +15,7 @@ made possible by a grant from the Harlan Boss Foundation for the Arts.
 Marilyn M. Cuellar, Cambridge, Minnesota
 
 <div class='whopic'>
-	<img height='240' src='/images/artists/images/75640.342096.jpg'>
+	<img height='240' src='/images/past_artists/75640.342096.jpg'>
 </div>
 
 Website: [http://marilyncuellar.com](http://marilyncuellar.com)
@@ -25,7 +25,7 @@ Website: [http://marilyncuellar.com](http://marilyncuellar.com)
 Emily Gray Koehler, White Bear Lake, Minnesota
 
 <div class='whopic'>
-<img height='240' src='/images/artists/images/77517.344696.jpg'>
+<img height='240' src='/images/past_artists/77517.344696.jpg'>
 </div>
 
 Website: [http://www.studioegk.com](http://www.studioegk.com)
@@ -35,7 +35,7 @@ Website: [http://www.studioegk.com](http://www.studioegk.com)
 Sue Peoples, Owatonna, Minnesota
 
 <div class='whopic'>
-<img height='240' src='/images/artists/images/73971.329899.jpg'>
+<img height='240' src='/images/past_artists/73971.329899.jpg'>
 </div>
 
 Website: [http://www.peoplesbeaddreams.com](http://www.peoplesbeaddreams.com)
@@ -45,7 +45,7 @@ Website: [http://www.peoplesbeaddreams.com](http://www.peoplesbeaddreams.com)
 Jason Trebs, St. Paul, Minnesota
 
 <div class='whopic'>
-<img height='240' src='/images/artists/images/78050.346595.jpg'>
+<img height='240' src='/images/past_artists/78050.346595.jpg'>
 </div>
 
 Website: [http://www.jasontrebspottery.com](http://www.jasontrebspottery.com)

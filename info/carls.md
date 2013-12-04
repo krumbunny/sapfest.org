@@ -7,7 +7,7 @@ menu_title:
 
 ## Bob Carls
 
-[<img class='featured leftpic' src='/images/BobCarls.jpg'>](http://www.ripplerivergallery.com/Ripple_River_Woodturning.html)
+[<img class='featured leftpic' src='/images/past_artists/BobCarls.jpg'>](http://www.ripplerivergallery.com/Ripple_River_Woodturning.html)
 
 *My work focuses on function or implied function, acknowledging the history of the vessel. I strive for continuity, historical context and a high level of workmanship as I make my bowls, jars, vases and vessels. I incorporate various woodworking techniques both on and off the lathe to accomplish this.*
 

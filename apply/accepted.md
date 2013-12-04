@@ -1,8 +1,7 @@
 ---
-layout: process
+layout: apply
+top_menu_id: apply
 title: St. Anthony Park Arts Festival - Artists and Vendors
-top_menu_id: process
-menu_title:
 ---
 ## Accepted Artists
 

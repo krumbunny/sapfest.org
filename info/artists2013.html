@@ -1,0 +1,17 @@
+---
+title: St. Anthony Park Arts Festival - 2013 Awards
+layout: info
+top_menu_id: info
+---
+<h2>2013 Artists</h2>
+<p>&nbsp;</p>
+<table>
+  {% for artist in site.data.artists2013 %}
+  <tr>
+    <td>{{ artist.first_name }} {{ artist.last_name }}</td>
+    <td>{{ artist.category }}</td>
+    <td>{{ artist.city }}</td>
+    <td>{{ artist.business }}</td>
+  </tr>
+  {% endfor %}
+</table>

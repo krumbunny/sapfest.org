@@ -1,8 +1,7 @@
 ---
 title: St. Anthony Park Arts Festival - Thank You
-layout: process
-top_menu_id: process
-menu_title:
+layout: apply
+top_menu_id: apply
 ---
 
 ### Thank You

@@ -1,8 +1,7 @@
 ---
 title: St. Anthony Park Arts Festival - Mission
-layout: process
-top_menu_id: process
-menu_title: Mission Statement
+layout: apply
+top_menu_id: apply
 ---
 ## St. Anthony Park Arts Festival Mission
 

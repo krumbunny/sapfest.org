@@ -1,9 +1,9 @@
 ---
-layout: info
 title: St. Anthony Park Arts Festival - About
+layout: info
 top_menu_id: info
 ---
-### A Day of Art and Fun
+## A Day of Art and Fun
 
 <div class="rightpic">
   <a href="/images/map2013.pdf">
@@ -79,15 +79,15 @@ ___
 <div class="hero">
   <h2>2013 Featured Artists</h2>
   <a href="/info/berg.html">
-    <img src="/images/FeaturedBerg.jpeg">
+    <img src="/images/past_artists/FeaturedBerg.jpeg">
   </a>
   <a href="/info/carls.html">
-    <img src="/images/FeaturedCarls.jpeg">
+    <img src="/images/past_artists/FeaturedCarls.jpeg">
   </a>
   <a href="/info/cuellar.html">
-    <img src="/images/FeaturedCuellar.jpeg">
+    <img src="/images/past_artists/FeaturedCuellar.jpeg">
   </a>
   <a href="/info/dittrich.html">
-    <img src="/images/FeaturedDittrich.jpeg">
+    <img src="/images/past_artists/FeaturedDittrich.jpeg">
   </a>
 </div>

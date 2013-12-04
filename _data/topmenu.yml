@@ -8,7 +8,7 @@
 
 - title: 2013 Awards
   id: awards
-  href: /info/awards.html
+  href: /info/awards2013.html
 
 - title: News
   id: news
@@ -16,5 +16,8 @@
 
 - title: Apply
   id: apply
-  href: /apply/apply.html
+  href: /apply/index.html
 
+- title: Library
+  id: library
+  href: /library/index.html

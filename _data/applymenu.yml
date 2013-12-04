@@ -1,0 +1,27 @@
+- title: Info for Artists
+  id: info
+  href: /apply/index.html
+
+- title: Online Application
+  id: apply
+  href: /apply/apply.html
+
+- title: Info for Vendors
+  id: vendor
+  href: /apply/vendor.html
+
+- title: FAQ
+  id: faq
+  href: /apply/faq.html
+
+- title: Application Process
+  id: jury
+  href: /apply/jury.html
+
+- title: Mission
+  id: mission
+  href: /apply/mission.html
+
+- title: Form ST19
+  id: st19
+  href: /apply/st19.pdf

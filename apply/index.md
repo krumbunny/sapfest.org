@@ -1,8 +1,7 @@
 ---
 title: St. Anthony Park Arts Festival - Artists and Vendors
-layout: process
-top_menu_id: process
-menu_title: Info for Artists
+layout: apply
+top_menu_id: apply
 ---
 ## Applying to the 2014 Festival
 

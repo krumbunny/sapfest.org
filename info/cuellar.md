@@ -7,7 +7,7 @@ menu_title:
 
 ## Guillermo Cuellar
 
-[<img class='featured leftpic' src='/images/CuellarWorking.jpg'>](http://www.guillermopottery.com)
+[<img class='featured leftpic' src='/images/past_artists/CuellarWorking.jpg'>](http://www.guillermopottery.com)
 
 I fell in love with the potter's wheel in college.  Inspired by A Potter's Book, by Bernard Leach, and the clay traditions of East and West, I wanted to become a part of the historical sweep of this ancient and vital art form. I aspired to a good life as an artist potter, making pots for use, for preparing and sharing food. 
 

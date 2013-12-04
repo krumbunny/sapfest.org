@@ -1,8 +1,7 @@
 ---
 title: St. Anthony Park Arts Festival - Directions
 layout: info
-top_menu_id: directions
-menu_title: Directions
+top_menu_id: info
 ---
 <script>$("#directions").addClass("on");</script>
 

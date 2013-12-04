@@ -7,9 +7,9 @@ menu_title:
 
 ## Patti Berg
 
-[<img class='featured leftpic' src='/images/Berg1.png'>](http://www.pattibergoriginals.com)
-[<img class='featured leftpic' src='/images/Berg2.png'>](http://www.pattibergoriginals.com)
-[<img class='featured leftpic' src='/images/Berg3.png'>](http://www.pattibergoriginals.com)
+[<img class='featured leftpic' src='/images/past_artists/Berg1.png'>](http://www.pattibergoriginals.com)
+[<img class='featured leftpic' src='/images/past_artists/Berg2.png'>](http://www.pattibergoriginals.com)
+[<img class='featured leftpic' src='/images/past_artists/Berg3.png'>](http://www.pattibergoriginals.com)
 
 Welcome to my world of millinery.  I have poured all of my creative energy into designing hats.  The basic elements are the same as any other creative endeavor.  Along with making my work beautiful, comes the challenge of making it wearable.  
 
