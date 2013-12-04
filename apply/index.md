@@ -5,7 +5,7 @@ top_menu_id: apply
 ---
 ## Applying to the 2014 Festival
 
-Check back here in December for more information. 
+Check back here in late December for more information. 
 We aim to start accepting applications for 2014 
 starting on January 6, 2014. The likely application deadline will be 
 March 14, 2014.
