@@ -21,9 +21,8 @@ The festival is a well organized, volunteer run celebration of art & artists.
 Participating artists appreciate easy curbside loading, 
 nearby parking and a positive, friendly atmosphere. 
 
-We are very pleased to offer a Best of Show award of $400, 
-plus three merit awards of $200 each, 
-made possible by the Boss Foundation for the Arts.
+We are very pleased to offer cash awrds 
+made possible by the Harlan Boss Foundation for the Arts.
 
 #### Costs:
 
