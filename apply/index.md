@@ -10,10 +10,10 @@ We aim to start accepting applications for 2014
 starting on January 6, 2014. The likely application deadline will be 
 March 14, 2014.
 
-Please use our [online application](/process/apply.html) to check on your application. 
-We also have more information on the [application process](/process/jury.html), 
-the [festival's mission](/process/mission.html) and a
-[frequently asked questions](/process/faq.html) list.
+Please use our [online application](/apply/apply.html) to check on your application. 
+We also have more information on the [application process](/apply/jury.html), 
+the [festival's mission](/apply/mission.html) and a
+[frequently asked questions](/apply/faq.html) list.
 
 ### Artist Information:
 
@@ -39,16 +39,13 @@ made possible by the Boss Foundation for the Arts.
 - Booth sitters if you need a short break
 - A simple artist's meal afterwards
 
-#### Key dates for 2013:
+#### Key dates:
 
-- January 4, 2013 - Artist applications accepted 
-- March 15, 2013 - Artist applications due
-- March 29, 2013 - Artists notified
-- April 12, 2013 - Booth fee due
-- May 1, 2013 - No refunds
-- June 1, 2013 - Festival day!
+- January 6, 2014 - Artist applications accepted 
+- March 14, 2014 - Artist applications due
+- June 7, 2014 - Festival day!
 
-The [application process](/process/jury.html) page outlines how to apply and the jury proceedure.
-More information is also available in the [Artist FAQ](/process/faq.html).
-Our [mission statement](/process/mission.html) gives some background on the fair 
+The [application process](/apply/jury.html) page outlines how to apply and the jury proceedure.
+More information is also available in the [Artist FAQ](/apply/faq.html).
+Our [mission statement](/apply/mission.html) gives some background on the fair 
 and it's relationship to the Library Association.

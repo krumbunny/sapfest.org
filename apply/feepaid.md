@@ -10,13 +10,13 @@ We look forward to seeing you on June 1, 2013!
 
 Don't forget to:
 
-#### 1) Fill out [Form ST19](/process/st19.pdf)
+#### 1) Fill out [Form ST19](/apply/st19.pdf)
 
 This is a requirement by the State of Minnesota to show that you are paying sales tax. 
 The sales tax rate for the fair's location is 7.625%.
 
-We need to have a [Form ST19](/process/st19.pdf) on file for every artist, or we can be hit with a hefty fine. 
-We've already filled out our event information in the version [here](/process/st19.pdf). 
+We need to have a [Form ST19](/apply/st19.pdf) on file for every artist, or we can be hit with a hefty fine. 
+We've already filled out our event information in the version [here](/apply/st19.pdf). 
 
 You can either fill out the rest in a PDF viewer (such as Apple's Preview) 
 and email it back to us, or print it, fill out, 
@@ -36,7 +36,7 @@ We will be making sure on festival day that everyone has the form turned in.
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 Specific info about set-up time, parking, advertising and more is on the
-[FAQ page](/process/faq.html). 
+[FAQ page](/apply/faq.html). 
 in the section **Exhibiting at the Festival**
 
 Please call or email if you have any questions or concerns.

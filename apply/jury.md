@@ -18,7 +18,7 @@ We encourage you to apply!
 Applications and communication are mainly done through this 
 web site and by email. 
 Call us at 612-564-ARTS if you need to work by phone.
-Applications start January 4, 2013.
+Applications start January 6, 2014.
 
 All artists need to submit an application. Work must be hand made
 by the artist. You need to be present on the day of the festival,
@@ -60,7 +60,7 @@ up to 5% total for the fair.
 
 ### After the Jury
 
-Accepted artists can withdraw before May 1, 2013 and receive a $90 refund. 
+Accepted artists can withdraw before May 1 and receive a $90 refund. 
 After May 1 our publicity materials go to press, our expenses become more fixed, 
 and we cannot issue refunds.
 
@@ -71,12 +71,10 @@ and we cannot issue refunds.
 
 ### Key dates:
 
-- January 4, 2013 - Artist applications accepted 
-- March 15, 2013 - Artist applications due
-- March 29, 2013 - Artists notified
-- April 12, 2013 - Booth fee due (or two weeks after notification)
-- May 1, 2013 - No refunds
-- June 1, 2013 - Festival day!
+- January 6, 2014 - Artist applications accepted 
+- March 14, 2014 - Artist applications due
+- May 1, 2014 - No refunds
+- June 7, 2014 - Festival day!
 
 Thank you for being an artist. Without art and artists, how dull
 living would be.

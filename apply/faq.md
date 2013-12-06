@@ -9,7 +9,7 @@ top_menu_id: apply
 
 Q: When are applications due?
 
-A: Friday, March 15, 2013
+A: Friday, March 14, 2014
 
 Q: What is the cost?
 
