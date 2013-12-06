@@ -13,4 +13,4 @@ Check back here, www.sapfest.org, in December.
 We aim to be accepting applications starting January 6, 2014. 
 
 Artist applications will likely be due on March 14, 2014. 
-The festtival date will be Saturday, June 7, 2014.
+The festival date will be Saturday, June 7, 2014.
