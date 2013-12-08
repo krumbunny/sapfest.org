@@ -21,7 +21,7 @@ The festival is a well organized, volunteer run celebration of art & artists.
 Participating artists appreciate easy curbside loading, 
 nearby parking and a positive, friendly atmosphere. 
 
-We are very pleased to offer cash awrds 
+We are very pleased to offer cash awards 
 made possible by the Harlan Boss Foundation for the Arts.
 
 #### Costs:
