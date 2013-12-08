@@ -36,7 +36,7 @@ made possible by the Harlan Boss Foundation for the Arts.
 - Easy access set up, with volunteers available to help
 - Refreshments
 - Booth sitters if you need a short break
-- A simple artist's meal afterwards
+- An artist's meal afterwards
 
 #### Key dates:
 
