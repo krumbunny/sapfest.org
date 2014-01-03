@@ -4,25 +4,26 @@ top_menu_id: home
 ---
 ## Saturday, June 7, 2014
 
-- **Along Como Ave. (Carter Ave to Luther Pl.) St. Paul**
+- **Along Como Ave. (Carter Ave. to Luther Pl.) St. Paul**
 - **10 am to 5 pm**
 
 Now in its 45<sup>th</sup>year, the Saint Anthony Park Arts Festival 
 brings together artists, musicians, art lovers, 
 families and a supportive community.
 
-This popular event is held near the Saint Paul campus 
-of the University of Minnesota and the 
-Como neighborhood of Minneapolis on the first Saturday in June.
+We invite insterested artists to [apply now](/apply/index.html).
+
+This popular event is held along Como Blvd. in the St. Anthony Park neighborhood
+of Saint Paul, near the Saint Paul campus of the University of Minnesota.
 
 Our festival:
 
-- Takes place in an attractive neighborhhod setting, and is free
-- Features about 80 artists
-- Benefits the historic <a href="http://www.sppl.org/about/locations/saint-anthony-park">St. Anthony Park Branch</a> of the <a href="http://www.sppl.org/home">St. Paul Library</a>
+- Takes place in an attractive neighborhhod setting, and is free.
+- Features about 80 artists.
+- Benefits the historic [St. Anthony Park Branch](http://www.sppl.org/about/locations/saint-anthony-park) of the [St. Paul Library](http://www.sppl.org/home).
 - Engages kids with activities such as the art booth, a weaving project and throwing their own pot.
 - Engages teens and adults with a collaborative art project.
-- Has a used book sale, a plant sale, tasty food and great music
+- Has a used book sale, a plant sale, tasty food and great music.
 - Supports summer reading and activity programs, keeping children engaged in reading throughout the summer.
 
 &nbsp;

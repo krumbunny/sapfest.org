@@ -6,7 +6,7 @@ top_menu_id: apply
 
 ### Thank You
 
-We look forward to seeing you on June 1, 2013!
+We look forward to seeing you on June 7, 2014!
 
 Don't forget to:
 
