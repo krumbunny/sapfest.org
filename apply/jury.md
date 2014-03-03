@@ -33,6 +33,14 @@ Images should clearly display the items to be
 sold; jewelry and other small items in particular must have
 enough detail so that we can judge the quality of the work.
 
+Your images will be displayed on a computer monitor at HD resolution 
+when presented to the jury. 
+For best results you should size your image in the 
+long dimension to be around 2000 pixels. 
+The monitor is oriented in the typical way, wider horizontally, so images 
+that are horizontally oriented, or at least square, use more of the display than 
+vertically oriented images. Images are letterboxed with a dark grey background.
+
 Each category requires its own application. For example, 
 if you want to sell pottery and paintings, enter two applications.
 
