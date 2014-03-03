@@ -5,13 +5,13 @@ top_menu_id: apply
 ---
 ## Vendor Information
 
-We have the vendors we need for 2013. Please contact us next winter for the 2014 show.
+If you are a returning vendor or want to see if there is an opening for you please fill out an application:
+
+[Vendor Application Form](/apply/2014FoodApp.pdf)
 
 #### Participation:
 
-The St. Anthony Park Arts Festival is no longer taking applications 
-for food vendors for our 44th annual event, 
-Saturday, June 1, 2013. Last year more than 3,500 people 
+The fesitval date is Saturday, June 7, 2014. Last year more than 3,500 people 
 from throughout the area enjoyed this family tradition, 
 which includes an arts festival, kids' activity tent, family entertainment, 
 sidewalk sales and more.
@@ -21,19 +21,14 @@ Although we have estimated the size of our crowd as between 3000-4000, it might 
 #### Process:
 
 To participate as a food vendor, we ask that you complete 
-the [application form](/lib/2013FoodApp.pdf) and 
-return it and a $165 booth fee payable to 
+the [application form](/apply/2014FoodApp.pdf) and 
+return it and a $180 booth fee payable to 
 *St. Anthony Park Library Association* to:
 
 > St. Anthony Park Library Association  
 > 2245 Como Avenue  
 > St. Paul, Minnesota 55108  
 
-Space is reserved on a first come, first served basis. 
-If there is more than one vendor for a particular food category, 
-we will reserve space for the first application we receive. 
-If for some reason we are unable to accommodate your request 
-for space, we will promptly return your $165 booth fee. 
 Please note: You are responsible for obtaining your own permits 
 and insurance. You will be asked for proof of proper 
 documentation and you will forfeit your booth fee if 
@@ -58,13 +53,4 @@ specific spaces; however, we cannot guarantee space assignments
 until we confirm your reservation.
 We appreciate your interest in participating with us, 
 and look forward to working with you. 
-
-
-## Vendor Information
-
-2013 Vendor Application:
-
-- In [PDF](/lib/2013FoodApp.pdf) format
-- In [Word](/lib/2013FoodApp.doc) format
-- In [Pages](/lib/2013FoodApp.pages) format
 
