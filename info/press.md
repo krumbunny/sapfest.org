@@ -5,16 +5,16 @@ top_menu_id: info
 menu_title: Press Release
 ---
 
-### The 2013 St. Anthony Park Arts Festival
+### The 2014 St. Anthony Park Arts Festival
 
-The 44th annual St. Anthony Park Arts Festival will be held on June 1, 2013, from 10 a.m. to 5 p.m.. 
+The 44th annual St. Anthony Park Arts Festival will be held on June 7, 2014, from 10 a.m. to 5 p.m.. 
 The festival benefits St. Anthony Park’s beautiful Carnegie Library 
 and funds the branch’s Summer Reading Program. 
 The free, outdoor show features 82 artists, delicious food, 
 live music, a book sale and several art activities for children and adults.
 
 - What: St. Anthony Park Arts Festival
-- When: Saturday, June 1, 2013,10 a.m. to 5 p.m.
+- When: Saturday, June 7, 2014,10 a.m. to 5 p.m.
 - Where: St. Anthony Park, Como Ave. between Carter Ave. and Luther Pl., St. Paul.
 - Who: The St. Anthony Park Library Association (festival contact: Ken Chin-Purcell)
 - How: Community Volunteers  
@@ -60,7 +60,7 @@ Carter Ave. Music Stage (for the latest lineup and times go to sapfest.org):
 - 2:15 Mostly Ghosts
 - 3:30 Doc and the Dysorderlies
 
-We are proud to have the following artists for our 2013 show. For artists booth locations go to sapfest.org or get a map on June 1.
+We are proud to have the following artists for our 2014 show. For artists booth locations go to sapfest.org or get a map on June 7.
 
 Ceramics:
 
