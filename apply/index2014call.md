@@ -5,8 +5,8 @@ top_menu_id: apply
 ---
 ## Applying to the 2014 Festival
 
-Unfortunately the application deadline was March 14, 2014. 
-Please send us an email and we'll notify you when next year's call for artists goes up.
+We are now accepting applications for this year's festival on June 7, 2014. 
+The application deadline is March 14, 2014.
 
 Please use our [online application](/apply/apply.html) to check on your application. 
 We also have more information on the [application process](/apply/jury.html), 
