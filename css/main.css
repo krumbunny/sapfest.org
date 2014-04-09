@@ -30,7 +30,7 @@ body {
   background-repeat:no-repeat;
   background-color: #321e19;
   background-size: 1024px;
-  background-position: center top; 
+  background-position: center top;
 }
 
 .container {
@@ -47,9 +47,9 @@ header {
   text-align: center;
   color: #fffff8;
 }
-header a { 
+header a {
   color: #fffff8 !important;
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 hgroup {
@@ -185,7 +185,7 @@ textarea, input {
   display: table;
   border-spacing: 32px;
 }
-.contenttable article, 
+.contenttable article,
 .contenttable aside {
   display: table-cell;
 }
@@ -200,7 +200,7 @@ textarea, input {
   margin-top: 0;
 }
 
-.clear { 
+.clear {
   overflow: hidden;
   width: 100%;
   clear: both;
@@ -244,6 +244,18 @@ textarea, input {
   max-width: 360px;
 }
 
+.shirt {
+  display: inline-block;
+  margin: 1em;
+  text-align: center;
+width: 200px;
+height: 200px;
+}
+
+.shirt img {
+  width: 200px;
+  height: 200px;
+}
 /****************************
  * Footer
  */
@@ -270,18 +282,18 @@ footer article {
   display: inline-block;
   text-align: right;
   vertical-align: top;
-  width: 8em;  
+  width: 8em;
   margin-right: 0.5em;
 }
 
 .forminput {
   display: inline-block;
-  text-align: left;  
-  width: 24em;  
+  text-align: left;
+  width: 24em;
 }
 
 .forminput input {
-  width: 20em;  
+  width: 20em;
 }
 
 .formsubmit {
@@ -294,7 +306,7 @@ footer article {
  */
 .dataTable {
   margin-top: 1em;
-  text-align: left; 
+  text-align: left;
   font-size: 90%;
   border: 1px solid #a59370;
 }

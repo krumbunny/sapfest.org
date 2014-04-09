@@ -5,9 +5,22 @@ title: St. Anthony Park Arts Festival - T-Shirts
 ---
 ## T-Shirts!
 
-We are taking orders this year for SAP Arts Festival T-shirts. 
+<div class="shirt">
+  <img src="/images/shirt2012.jpg" alt="t-shirt 2012">
+  2012 T-Shirt
+</div>
+<div class="shirt">
+  <img src="/images/shirt2013.jpg" alt="t-shirt 2013">
+  2013 T-Shirt
+</div>
+<div class="shirt">
+  <img src="/images/shirt2014.png" alt="t-shirt 2014">
+  2014 In Process
+</div>
+
+We are taking orders this year for SAP Arts Festival T-shirts.
 We don't have a sample to show you yet but they will be similar to past years' shirts,
-with a design that riffs on the intersection of Art and Library. 
+with a design that riffs on the intersection of Art and Library.
 We're offering the shirts at cost to make it easy for artists and the
 community to show their support for the library.
 
@@ -40,4 +53,3 @@ Deadline: May 1<sup>st</sup>, 2014
 </form>
 
 </fieldset>
-
