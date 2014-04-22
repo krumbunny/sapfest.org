@@ -7,6 +7,8 @@ menu_title: Press Release
 
 [Press Release, PDF](/info/PressRelease2014.pdf)
 
+[Festival Map, PDF](/info/FestivalMap2014.pdf)
+
 ### The 2014 St. Anthony Park Arts Festival
 
 The 2014 St. Anthony Park Arts Festival
