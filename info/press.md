@@ -5,25 +5,37 @@ top_menu_id: info
 menu_title: Press Release
 ---
 
+[Press Release, PDF](/info/PressRelease2014.pdf)
+
 ### The 2014 St. Anthony Park Arts Festival
 
-The 44th annual St. Anthony Park Arts Festival will be held on June 7, 2014, from 10 a.m. to 5 p.m.. 
+The 2014 St. Anthony Park Arts Festival
+
+This year the festival returns to the library: 
+72 artists will be around the St. Anthony Park Library Lawn,
+like the festival used to be a decade ago. 
+Our featured artists are North Shore sculptors Dan and Lee Ross, 
+Baltic jewelers Leo and Dina Lisovskis, 
+and befitting a library, book artist Regula Russelle.
+
+The 45th annual St. Anthony Park Arts Festival 
+will be held on June 7, 2014, from 10 a.m. to 5 p.m.. 
 The festival benefits St. Anthony Park’s beautiful Carnegie Library 
 and funds the branch’s Summer Reading Program. 
-The free, outdoor show features 82 artists, delicious food, 
+The free, outdoor show features 72 artists, delicious food, 
 live music, a book sale and several art activities for children and adults.
 
-- What: St. Anthony Park Arts Festival
+- What: St. Anthony Park Arts Festival 
+- Cost: Free admission, free activities
 - When: Saturday, June 7, 2014,10 a.m. to 5 p.m.
-- Where: St. Anthony Park, Como Ave. between Carter Ave. and Luther Pl., St. Paul.
+- Where: St. Anthony Park, Como Ave. at Carter Ave., St. Paul.
 - Who: The St. Anthony Park Library Association (festival contact: Ken Chin-Purcell)
-- How: Community Volunteers  
+- How: Community Volunteers
 
 For more Information: sapfest.org  or  612-564-ARTS
 
 Attractions:
-
-- 82 Artists
+- 72 Artists
 - Make-a-hat children’s activity
 - Children’s weaving activity
 - Make-a-pot pottery wheel
@@ -32,142 +44,100 @@ Attractions:
 - Water Wars
 - Henna Body Art
 - Community organizations
-- Eight food vendors and four restaurants
+- Seven food vendors and four restaurants
 
-This year we are doing a special community art project with Driftwood Community Arts:
+Classical and acoustic music all day on the library lawn.
 
-- Come help create a collaborative community book!
-- Learn about collage and other techniques from the artists of Driftwood Community Arts
-- Participate in creating the pages and cover by using words and pictures to share your story about St Anthony Park
-- Your artwork will be grouped with others' to assemble the pages of the book
-
-Luther Music Stage (for the latest lineup and times go to sapfest.org):
-
-- 10:00 Phillip Rukavina - Solo Renaissance Lute Music
-- 11:00 Carl Street Mandolin Quartet - Traditional and Contemporary Music for Mandolin Quartet.
-- 12:00 Pam Guthrie – Rejuvenation in Meditation and Music
-- 1:00 Minnesota Mandolin Orchestra - Classical, Popular, and New Music for Mandolin Orchestra.
-- 2:00 Borealis Duo - Classical and Other Music Written or Arranged for Mandolin Duo.
-- 3:00 Phillip Rukavina & Thomas Walker Jr. - Lute Duets
-- 4:00 Stephanie Claussen – Enchanting Music for Solo Harp
-
-Carter Ave. Music Stage (for the latest lineup and times go to sapfest.org):
-
-- 10:00 Gregg Herriges
-- 11:00 Drumheart
-- 11:45 Sherry Minnick 
-- 1:00 Sweet Rhubarb
-- 2:15 Mostly Ghosts
-- 3:30 Doc and the Dysorderlies
-
-We are proud to have the following artists for our 2014 show. For artists booth locations go to sapfest.org or get a map on June 7.
+We are proud to have the following artists for our 2014 show. 
 
 Ceramics:
+- Tom Abel,    St Paul, Minnesota
+- Robert Briscoe,    Harris, Minnesota
+- Rebecca Bruzek,    Alexandria, Minnesota
+- Guillermo Cuellar,    Shafer, Minnesota
+- Bridget Donahue,    Excelsior, Minnesota
+- Vanessa Greene,    Minnetonka, Minnesota
+- Richard Gruchalla,    Duluth, Minnesota
+- Travis Hinton,    Sioux Falls, South Dakota
+- Chris and Sue Holmquist,    Northfield, Minnesota
+- Ernest Miller,    Minneapolis, Minnesota
+- Wendy Penta,    Blaine, Minnesota
+- Jo Severson,    Clearwater, Minnesota
+- Chuck Solberg,    Saint Paul, Minnesota
+- Zac Spates,    Hudson, Wisconsin
+- Jason Trebs,    St. Paul, Minnesota
 
-- Tom Abel  St. Paul
-- Robert Briscoe  Harris    
-- Guillermo Cuellar Shafer    
-- Martha Enzler Minneapolis (Tile)
-- Ann Fendorf St. Paul
-- Vanessa Greene  Minnetonka  
-- Richard Gruchalla Duluth  
-- Chris and Sue Holmquist Northfield
-- Peter Jadoonath St. Paul
-- Lenore Lampi  Duluth    
-- Dawn Makarios Cannon Falls  
-- Wendy Penta Blaine (Tile) 
-- Matthew Quinn Minneapolis 
-- Jo Severson Clearwater
-- Chuck Solberg St. Paul  
-- Will Swanson  Harris    
-- Jason Trebs St. Paul  
+Fiber & Wearable:
+- Patti Berg,    Embarrass, Minnesota
+- Cindy Brown,    Blaine, Minnesota
+- Debra Caserotti,    Richfield, Minnesota
+- Sharon Cherney,    Clayton, Wisconsin
+- Dawnette Davis,    Grand Rapids, Minnesota
+- Mary Descombaz,    Saint Paul, Minnesota
+- Beth Homa,    Minneapolis, Minnesota
+- Nancy Hovland,    St. Paul, Minnesota
+- Linda Nelson Bryan,    St Paul, Minnesota
+- William & Linda Sumner,    Princeton, Minnesota
+- Colleen Tabaika,    St Paul, Minnesota
+- Bao Yang,    Columbia Heights, Minnesota
 
-Fiber & Leather:
-
-* Patti Berg  Embarrass 
-* Cindy Brown Blaine  
-* Debra Caserotti Richfield 
-* Sharon Cherney  Clayton, WI (Leather) 
-* Dawnette Davis  Grand Rapids  
-* Ann Hansen  St. Paul
-* Nancy Hovland St. Paul
-* Jennifer Mason  St. Paul  
-* Linda Nelson Bryan  St. Paul  
-* Ann Ringness  St. Cloud (Leather) 
-* William & Linda Sumner  Princeton 
-* Faye Fisher-Ward  Minneapolis (Leather) 
-* Bao Yang  Columbia Heights
-
-Glass:
-
-* Craig Campbell  Mahtomedi 
-* Steve Claypatch Minneapolis 
-* Mary Ila Duntemann  Minneapolis 
-* Mary Dvorak Lauderdale
-* Nola Murzyn Shoreview 
-* Katie Sisum Minneapolis 
-* Warren Slocum New Richmond, WI  
+Glass & Enamel:
+- Steve Claypatch,    Minneapolis, Minnesota
+- Nicole Fierce,    Minneapolis, Minnesota
+- Nola Murzyn,    Shoreview, Minnesota
+- Irene Sherman,    Plymouth, Minnesota
+- Warren Slocum,    New Richmond, Wisconsin
 
 Jewelry:
-
-* Mary Best Richfield 
-* Robert Carter New Brighton
-* Margaret Dittrich St. Paul  
-* Gary Rex Erickson Coon Rapids 
-* Kari Erickson Minnetonka  
-* Mary Gohman St. Cloud 
-* Shirley Jones Minneapolis 
-* Brenna Klassen-Glanzer  Minneapolis 
-* Larissa Loden St. Paul  
-* Cheri Meyer St. Louis Park  
-* Lisa Nelson Brooklyn Park 
-* Mark Nuebel Newport 
-* Amy & Matt Palmer Bay City, WI  
-* Sue Peoples Owatonna
-* Cindy Swee  Minneapolis 
-* Jeannie Trelles St. Paul  
+- Tricia Bagstad,    Bloomington, Minnesota
+- Mary Best,    Richfield, Minnesota
+- Brenna Busse,    Minneapolis, Minnesota
+- Mary Ila Duntemann,    Minneapolis, Minnesota
+- Gary Rex Erickson,    Coon Rapids, Minnesota
+- Aaron Kahmann,    Eden Prairie, Minnesota
+- Brenna Klassen-Glanzer,    Minneapolis, Minnesota
+- Leo and Dina Lisovskis,    , Minnesota
+- Larissa Loden,    Saint Paul, Minnesota
+- mark nuebel,    Newport, Minnesota
+- Sue Peoples,    Owatonna, Minnesota
+- Joan Teppen,    Fripp Island, South Carolina
+- Angel Teske,    Saint Paul, Minnesota
+- Candyce Westfield,    Walker, Minnesota
 
 Mixed Media:
+- Judith Hurd,    St. Louis Park, Minnesota
+- Julie Johnson,    Blaine, Minnesota
+- Sharon Miller-Thompson,    Saint Paul, Minnesota
 
-* Jo Bunting  Redwood Falls 
-* Annette Mattingly Ely 
-
-Painting / Drawing:
-
-* Helen Bond  St. Paul  
-* Marilyn Cuellar Cambridge 
-* Susan Gainen  St. Paul  
-* Sara Gilbertson Bloomington 
-* Olga Krasovska  Granite Falls 
-* Dan Mackerman Lauderdale  
-* Susan McDonald  Roseville 
-* Greta Sandquist St. Paul
-* Claire Anne Thoen St. Paul
-* Nicky Torkzadeh Minneapolis 
+Painting & Drawing:
+- Marilyn Cuellar,    Cambridge, Minnesota
+- Mary Jo Fox,    Willard, Wisconsin
+- Christy Johnson,    Minneapolis, Minnesota
+- Olga Krasovska,    Granite Falls, Minnesota
+- Megan Moore,    Minneapolis, Minnesota
+- Lori Sherrick,    St. Paul, Minnesota
 
 Photography:
-
-* Suzy Freeborg Birchwood 
-* Jim Gindorff  St. Paul  
-* Dan Leisen  Minneapolis 
-* Kevin Mann  Bloomington 
-* Vince Quast Mayer 
+- Rachel Cain,    Shoreview, Minnesota
+- Jim Gindorff,    St. Paul, Minnesota
+- Erin Hartman,    Minneapolis, Minnesota
+- Daron Krueger,    Sioux Falls, South Dakota
+- Dan Leisen,    Minneapolis, Minnesota
 
 Print Making:
-
-* Kendra Baillie  Minneapolis 
-* Emily Koehler White Bear Lake 
+- Emily Koehler,    White Bear Lake, Minnesota
 
 Sculpture:
-
-* David DeMattia  St. Croix Falls, WI 
-* Keith Raivo Brook Park
-* Thomas Sack St. Louis Park
-* Jennifer Wolcott  Northfield  
+- Cynthia Anderson,    Chaska, Minnesota
+- Bud Bullivant,    Milaca, Minnesota
+- David DeMattia,    St. Croix Falls, Wisconsin
+- Sandra Haff,    Minneapolis, Minnesota
+- Dan & Lee Ross,    Hovland, Minnesota
+- Jennifer Wolcott,    Northfield, Minnesota
 
 Wood:
-
-* Bob Carls Deerwood
-* Andrew Kringen  Grand Rapids  
-* Craig Richardson  Oakdale 
+- Ted Golbuff,    Minneapolis, Minnesota
+- Andrew Kringen,    Grand Rapids, Minnesota
+- Craig Richardson,    Oakdale, Minnesota
+- Dave & Kathy Towley,    Bemidji, Minnesota
 
