@@ -82,7 +82,7 @@ Fiber & Wearable:
 - Sharon Cherney,    Clayton, Wisconsin
 - Dawnette Davis,    Grand Rapids, Minnesota
 - Mary Descombaz,    Saint Paul, Minnesota
-- Beth Holm,    St. Paul, Minnesota
+- Beth Homa,    St. Paul, Minnesota
 - Nancy Hovland,    St. Paul, Minnesota
 - Linda Nelson Bryan,    St Paul, Minnesota
 - William & Linda Sumner,    Princeton, Minnesota
