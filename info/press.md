@@ -9,13 +9,14 @@ menu_title: Press Release
 
 [Festival Map, PDF](/info/FestivalMap2014.pdf)
 
+[Post Card, PDF](/info/SAPcardArtists.pdf)
+
 ### The 2014 St. Anthony Park Arts Festival
 
 The 2014 St. Anthony Park Arts Festival
 
 This year the festival returns to the library: 
-72 artists will be around the St. Anthony Park Library Lawn,
-like the festival used to be a decade ago. 
+72 artists will be around and near the St. Anthony Park Library Lawn. 
 Our featured artists are North Shore sculptors Dan and Lee Ross, 
 Baltic jewelers Leo and Dina Lisovskis, 
 and befitting a library, book artist Regula Russelle.
@@ -24,8 +25,10 @@ The 45th annual St. Anthony Park Arts Festival
 will be held on June 7, 2014, from 10 a.m. to 5 p.m.. 
 The festival benefits St. Anthony Park’s beautiful Carnegie Library 
 and funds the branch’s Summer Reading Program. 
-The free, outdoor show features 72 artists, delicious food, 
-live music, a book sale and several art activities for children and adults.
+The free outdoor show is located at the intersection of 
+Como and Carter Avenues in St. Paul and features over 70 artists, 
+delicious food, live music, a book sale, 
+several art activities for children and adults, and other fun activities for all.
 
 - What: St. Anthony Park Arts Festival 
 - Cost: Free admission, free activities
@@ -37,7 +40,7 @@ live music, a book sale and several art activities for children and adults.
 For more Information: sapfest.org  or  612-564-ARTS
 
 Attractions:
-- 72 Artists
+- 70+ Artists
 - Make-a-hat children’s activity
 - Children’s weaving activity
 - Make-a-pot pottery wheel
@@ -76,7 +79,7 @@ Fiber & Wearable:
 - Sharon Cherney,    Clayton, Wisconsin
 - Dawnette Davis,    Grand Rapids, Minnesota
 - Mary Descombaz,    Saint Paul, Minnesota
-- Beth Homa,    Minneapolis, Minnesota
+- Beth Holm,    St. Paul, Minnesota
 - Nancy Hovland,    St. Paul, Minnesota
 - Linda Nelson Bryan,    St Paul, Minnesota
 - William & Linda Sumner,    Princeton, Minnesota
@@ -98,9 +101,9 @@ Jewelry:
 - Gary Rex Erickson,    Coon Rapids, Minnesota
 - Aaron Kahmann,    Eden Prairie, Minnesota
 - Brenna Klassen-Glanzer,    Minneapolis, Minnesota
-- Leo and Dina Lisovskis,    , Minnesota
+- Leo and Dina Lisovskis,    Osceloa , Wisconsin
 - Larissa Loden,    Saint Paul, Minnesota
-- mark nuebel,    Newport, Minnesota
+- Mark Nuebel,    Newport, Minnesota
 - Sue Peoples,    Owatonna, Minnesota
 - Joan Teppen,    Fripp Island, South Carolina
 - Angel Teske,    Saint Paul, Minnesota
