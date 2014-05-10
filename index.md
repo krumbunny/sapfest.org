@@ -11,7 +11,7 @@ Now in its 45<sup>th</sup>year, the Saint Anthony Park Arts Festival
 brings together artists, musicians, art lovers, 
 families and a supportive community.
 
-We invite insterested artists to [apply now](/apply/index.html).
+This year **you can [buy a T-shirt](/info/tshirt.html)**, but you have to order by May 20<sup>th</sup>. Only $12!
 
 This popular event is held along Como Blvd. in the St. Anthony Park neighborhood
 of Saint Paul, near the Saint Paul campus of the University of Minnesota.
