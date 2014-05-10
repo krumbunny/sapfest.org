@@ -3,6 +3,7 @@ title: Artist Spotlight, May XX, 2014
 date: 2014-05-XX
 tags: Artist Spotlight
 layout: post
+published: false
 ---
 
 Today's Spotlight artists:

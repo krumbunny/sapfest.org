@@ -1,6 +1,6 @@
 ---
-layout: apply
-top_menu_id: apply
+layout: info
+top_menu_id: info
 title: St. Anthony Park Arts Festival - T-Shirts
 ---
 ## T-Shirts!

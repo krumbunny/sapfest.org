@@ -2,6 +2,14 @@
   id: about
   href: /info/index.html
 
+- title: Directions
+  id: directions
+  href: /info/directions.html
+
+- title: T Shirts!
+  id: shirts
+  href: /info/tshirt.html
+
 - title: Contact
   id: contact
   href: /info/contact.html
@@ -13,10 +21,6 @@
 - title: Last Year's Artists (2013)
   id: awards
   href: /info/artists2013.html
-
-- title: Directions
-  id: directions
-  href: /info/directions.html
 
 - title: Press Kit
   id: press
