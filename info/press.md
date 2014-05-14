@@ -5,9 +5,15 @@ top_menu_id: info
 menu_title: Press Release
 ---
 
-[Festival Map, PDF](/info/FestivalMap2014.pdf)
+[Poster, PDF](/info/SAPAFposter14.pdf)
 
-[Post Card, PDF](/info/SAPcardArtists.pdf)
+[Festival Map, PDF](/info/Map2014.pdf)
+
+[Festival Map with 1/2 inch bleed, PDF](/info/Map2014Bordered.pdf)
+
+[Post Card with artist names, PDF](/info/SAPcardArtists.pdf)
+
+[Post Card for mailing, PDF](/info/SAPpostcardmailers.pdf)
 
 ## Press Release
 
@@ -41,18 +47,32 @@ several art activities for children and adults, and other fun activities for all
 
 Attractions:
 
-- 70+ Artists
-- Make-a-hat children’s activity
+- 72 Artists
+- Create a book mark with book artist Regula Russelle
+- Children’s art activity
 - Children’s weaving activity
 - Make-a-pot pottery wheel
 - Used book sale
 - Plant Sale
+- Scout Adventure Bridge and Tower
+- Urban Tennis
+- Transition Town, with Give-a-Rip upcycling
 - Water Wars
 - Henna Body Art
 - Community organizations
 - Seven food vendors and four restaurants
 
-Classical and acoustic music all day on the library lawn.
+Music lineup:
+
+- 9:30  Irish Music Youth Ensemble
+- 10:30  Ladyslipper Baroque Ensemble
+- 10:30  Ladyslipper Baroque Ensemble
+- 11:30  Richard Griffith (mandolin) and Phillip Rukavina (guitar)
+- 12:30  Minnesota Mandolin Orchestra
+- 1:20  Drumheart
+- 2:00  Becky Kapell
+- 3:00  Chuck Solberg, blues and jazz
+- 4:00  Sherry Minnick 
 
 We are proud to have the following artists for our 2014 show. 
 
