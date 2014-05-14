@@ -301,6 +301,23 @@ footer article {
   margin-left: 8.5em;
 }
 
+.tform p,
+.tform form {
+  display: inline-block;
+}
+
+.tform p {
+  vertical-align: top;
+}
+
+.tform form {
+  margin-right: 20px;  
+}
+
+.tform input {
+  margin-top: 5px;
+}
+
 /****************************
  * Tables
  */
