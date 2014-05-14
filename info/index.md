@@ -6,11 +6,11 @@ top_menu_id: info
 ## A Day of Art and Fun
 
 <div class="rightpic">
-  <a href="/info/FestivalMap2014.pdf">
+  <a href="/info/Map2014.pdf">
     <img src="/images/map2013.png" alt="map" width="200">
   </a>
   <p class="caption">
-    Preliminary festival <a href="/info/FestivalMap2014.pdf">map</a>
+    Festival <a href="/info/Map2014.pdf">map</a>
   </p>
 </div>
 
