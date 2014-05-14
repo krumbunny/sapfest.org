@@ -1,6 +1,6 @@
 ---
-title: Artist Spotlight, May XX, 2014
-date: 2014-05-XX
+title: Artist Spotlight, May ZZ, 2014
+date: 2014-05-ZZ
 tags: Artist Spotlight
 layout: post
 published: false
@@ -8,7 +8,7 @@ published: false
 
 Today's Spotlight artists:
 
-![XX](/images/2014/posts/2014-05-XX/XX.jpg)
+![XX](/images/2014/posts/2014-05-ZZ/XX.jpg)
 
 XX 
 
@@ -18,7 +18,7 @@ XX
 
 &nbsp;
 
-![XX](/images/2014/posts/2014-05-XX/XX.jpg)
+![XX](/images/2014/posts/2014-05-ZZ/XX.jpg)
 
 XX 
 
@@ -28,7 +28,7 @@ XX
 
 &nbsp;
 
-![XX](/images/2014/posts/2014-05-XX/XX.jpg)
+![XX](/images/2014/posts/2014-05-ZZ/XX.jpg)
 
 XX 
 
