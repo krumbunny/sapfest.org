@@ -52,7 +52,7 @@ Attractions:
 - Children’s art activity
 - Children’s weaving activity
 - Make-a-pot pottery wheel
-- Used book sale
+- Used book sale, in the library, 10:00 - 3:30
 - Plant Sale
 - Scout Adventure Bridge and Tower
 - Urban Tennis
@@ -65,7 +65,6 @@ Attractions:
 Music lineup:
 
 - 9:30  Irish Music Youth Ensemble
-- 10:30  Ladyslipper Baroque Ensemble
 - 10:30  Ladyslipper Baroque Ensemble
 - 11:30  Richard Griffith (mandolin) and Phillip Rukavina (guitar)
 - 12:30  Minnesota Mandolin Orchestra
