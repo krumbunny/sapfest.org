@@ -83,7 +83,7 @@ Ceramics:
 - Guillermo Cuellar,    Shafer, Minnesota
 - Bridget Donahue,    Excelsior, Minnesota
 - Vanessa Greene,    Minnetonka, Minnesota
-- Richard Gruchalla,    Duluth, Minnesota
+- Richard Gruchalla and Carrin Rosetti,    Duluth, Minnesota
 - Travis Hinton,    Sioux Falls, South Dakota
 - Chris and Sue Holmquist,    Northfield, Minnesota
 - Ernest Miller,    Minneapolis, Minnesota

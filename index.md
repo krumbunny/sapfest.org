@@ -19,7 +19,7 @@ of Saint Paul, near the Saint Paul campus of the University of Minnesota.
 Our festival:
 
 - Takes place in an attractive neighborhhod setting, and is free.
-- Features about 80 artists.
+- Features about 70 artists.
 - Benefits the historic [St. Anthony Park Branch](http://www.sppl.org/about/locations/saint-anthony-park) of the [St. Paul Library](http://www.sppl.org/home).
 - Engages kids with activities such as the art booth, a weaving project and throwing their own pot.
 - Engages teens and adults with a collaborative art project.
