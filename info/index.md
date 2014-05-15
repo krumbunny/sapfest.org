@@ -23,71 +23,70 @@ the University of Minnesota and the Como neighborhood of Minneapolis
 on the first Saturday in June.
 
 Our festival:
-- Features 80 artists
+- Features 72 artists
 - Benefits the historic
   [St. Anthony Park Branch](http://www.sppl.org/about/locations/saint-anthony-park)
   of the [St. Paul Public Library](http://www.sppl.org/home)
 - Engages kids with activities such as the art booth
   and throwing their own pot.
-- Has a used book sale, a plant sale, good food and great
-  [music](/info/index.html)
+- Has a used book sale, a plant sale, good food and great music
 - Supports summer reading and activity programs,
   keeping children engaged in reading throughout the summer.
 
 ___
 
-## 2013 Arts Festival Schedule
+## 2014 Arts Festival Schedule
 
 #### 10:00 a.m. Festival Opens
 
-- Artist Booths
-- Free Collaborative Book Project at Carter Ave.
-- Free Children's Art Tent at Luther Pl.
-- Free Weaving Loom at Luther Pl.
-- Free Make a Pot at Carter Ave.
-- The Raptor Center's Bald Eagle, 1 pm at Milton Square
-- St. Paul Urban Tennis! on Gove Pl.
-- Used Book Sale at the Library
-- St. Anthony Park Garden Club Plant Sale
-- Delicious Food
+- 72 Artists
+- Create a book mark with book artist Regula Russelle
+- Children’s art activity
+- Children’s weaving activity
+- Make-a-pot pottery wheel
+- Used book sale, in the library, 10:00 - 3:30
+- Plant Sale
+- Scout Adventure Bridge and Tower
+- Urban Tennis
+- Transition Town, with Give-a-Rip upcycling
+- Water Wars
 - Henna Body Art
-- Communty Groups
+- Community organizations
+- Seven food vendors and four restaurants
 
 #### 5:00 p.m. Festival Closes
 
-### Luther Music Stage for 2013
+Music lineup:
 
-- 10:00 Phillip Rukavina - Solo Renaissance Lute Music
-- 11:00 Carl Street Mandolin Quartet - Traditional and Contemporary Music for Mandolin Quartet.
-- 12:00 Pam Guthrie – Rejuvenation in Meditation and Music
-- 1:00 Minnesota Mandolin Orchestra - Classical, Popular, and New Music for Mandolin Orchestra.
-- 2:00 Borealis Duo - Classical and Other Music Written or Arranged for Mandolin Duo.
-- 3:00 Phillip Rukavina & Thomas Walker Jr. - Lute Duets
-- 4:00 Stephanie Claussen – Enchanting Music for Solo Harp
-
-### Carter Ave. Music Stage for 2013
-
-- 10:00 Gregg Herriges
-- 11:00 Drumheart
-- 11:45 Sherry Minnick 
-- 1:00 Sweet Rhubarb
-- 2:15 Mostly Ghosts
-- 3:30 Doc and the Dysorderlies
+- 9:30  Center for Irish Music Advanced Youth Ensemble 
+- 10:30  Ladyslipper Baroque Ensemble
+- 11:30  Richard Griffith (mandolin) and Phillip Rukavina (guitar)
+- 12:30  Minnesota Mandolin Orchestra
+- 1:20  Drumheart
+- 2:00  Becky Kapell
+- 3:00  Chuck Solberg, blues and jazz
+- 4:00  Sherry Minnick 
 
 ---
 
-<div class="hero">
-  <h2>2013 Featured Artists</h2>
-  <a href="/info/berg.html">
-    <img src="/images/past_artists/FeaturedBerg.jpeg">
-  </a>
-  <a href="/info/carls.html">
-    <img src="/images/past_artists/FeaturedCarls.jpeg">
-  </a>
-  <a href="/info/cuellar.html">
-    <img src="/images/past_artists/FeaturedCuellar.jpeg">
-  </a>
-  <a href="/info/dittrich.html">
-    <img src="/images/past_artists/FeaturedDittrich.jpeg">
-  </a>
-</div>
+We are proud to have as our Featured Artists for 2014:
+
+![Dan Ross Sculpture](/images/2014/RossBear.jpg)
+
+Dan and Lee Ross, Sculpture  
+[danross-leeross.com](http://www.danross-leeross.com/)
+
+&nbsp;
+
+![Leo and Dina Lisovskis Amber](/images/2014/Lisovskis1.jpg)
+
+Leo and Dina Lisovskis, Jewelry  
+[Profile from the Sogn Valley Fair](http://sognvalleycraftfair.blogspot.com/p/leo-and-dina-lisovskis-artists-in.html)
+
+&nbsp;
+
+![Regula Russelle Atmosphere](/images/2014/RusselleAtmos.jpg) 
+Regula Russelle, History of the Atmosphere
+
+Regula Russelle, Book Arts  
+[www.regularusselle.com](http://www.regularusselle.com/)
