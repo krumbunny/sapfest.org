@@ -64,7 +64,7 @@ Attractions:
 
 Music lineup:
 
-- 9:30  Irish Music Youth Ensemble
+- 9:30  Center for Irish Music Advanced Youth Ensemble 
 - 10:30  Ladyslipper Baroque Ensemble
 - 11:30  Richard Griffith (mandolin) and Phillip Rukavina (guitar)
 - 12:30  Minnesota Mandolin Orchestra
