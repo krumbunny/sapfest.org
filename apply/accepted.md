@@ -11,9 +11,64 @@ that includes you, dear reader.
 
 We are looking forward to seeing you on Saturday, June 7, 2014!
 
-Next steps:
+### 2014 Getting Ready for the Festival
 
-### 1) Accept and pay for your booth
+This year's [map of the festival](/info/Map2014.pdf) is available from 
+our [press page](/info/press.html). There you will also find 
+PDF's of our publicity postcards and poster if you want to use those 
+materials in your own communications.
+
+You should have been sent your preliminary booth space by email, 
+but you might also inquire on festival day just to make sure there were
+no last minute changes.
+
+- Please fill out and send in [Form ST19](/apply/st19.pdf) if you have not 
+  already done so. This is a requirement by the State of Minnesota 
+  to show that you are paying sales tax. 
+  The sales tax rate for the fair's location is 7.625%.
+
+- You can set up anytime Saturday morning. Friday night set up is not available because 
+  the space is used for another event. We will be on site by 7:00 am.
+  
+- The festival hours are 10:00 am to 5:00 pm. We will have some music starting
+  at 9:30 am, and if all goes well we should have some coffee in the morning. 
+  The music lineup in roughly traditional and classical in the morning, 
+  acoustic and jazz in the afternoon.
+
+- When you arrive on Saturday please check in at the information table, 
+  located on the corner of Como and Carter in front of the Emily Program building. 
+  Let us know at that time if you will need help with set up 
+  or you can email us before the Festival. 
+  We will have volunteers to check folks in and show them their 
+  space starting at **7 a.m**.
+  If you want to come earlier the space numbers are painted on the grass and street.
+  We will have an 8.5x11 booth sign for you, an information sheet, and a 
+  [t-shirt](/info/tshirt.html) if you ordered one.
+
+- Once you have unloaded please move your vehicle as quickly as possible to avoid
+  congestion and to allow other artists to unload. 
+  The side streets should have ample parking, or you can park off street at the
+  [Methodist Church Parking Lot](https://www.google.com/maps/place/2200+W+Hillside+Ave/@44.9794039,-93.1940403,19z/data=!3m1!4b1!4m2!3m1!1s0x52b32c914dce0d33:0x2cbed89eba3c6ef), 
+  which is a block east on Como Ave.
+  If you are unclear as to where to park just ask at the information table.
+
+- During the festival please let us know how things are working (or not) - 
+  we value your feedback.
+  
+- We will have booth sitters available mid-day.
+  
+- The after-festival get together should start around six and will be in the 
+  courtyard and lower level of Milton Square, on the corner of Carter and Como,
+  in back of Muffuletta Restaurant. If you didn't RSVP no worries - just let us know 
+  when you can and you are welcome to join us.
+  
+- You are responsible for your own canopy and insurance. 
+
+Let us know if you have any more questions.  See you June 7<sup>th</sup>!
+
+## Earlier:
+
+### Accept and pay for your booth
 
 The booth fee is $115, and we need your payment by April 12 
 in order to issue you a booth space. 
@@ -57,18 +112,6 @@ Or
   </blockquote>
 </fieldset>
 
-### 2) Fill out [Form ST19](/apply/st19.pdf)
-
-This is a requirement by the State of Minnesota to show that you are paying sales tax. 
-The sales tax rate for the fair's location is 7.625%.
-
-We need to have a [Form ST19](/apply/st19.pdf) for every artist, or we can be hit with a hefty fine. 
-We've already filled out our event information in the version [here](/apply/st19.pdf). 
-
-You can either email a filled out form back to us, 
-or mail it to the address above, or give it to us on festival day.
-
-We will be making sure on festival day that everyone has a form on file. 
 
 ### 3) Spread the word!
 
