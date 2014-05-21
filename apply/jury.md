@@ -12,6 +12,14 @@ all applications equally and with care.
 Artists will be  judged by experienced art professionals on the basis
 of their images and statement.
 
+### 2014 Jurors
+
+The jurors for the 2014 festival are:
+
+- Kathy Harding
+- Marshall Browne
+- Jan Sedgewick
+
 ### Applications
 
 We encourage you to apply! 
