@@ -2,6 +2,12 @@
 layout: home 
 top_menu_id: home
 ---
+## Thank you!
+
+Hearty thanks to all of the artists, volunteers, vendors and visitors who turned out on Saturday. 
+
+We hope to see you all again in 2015!
+
 ## Saturday, June 7, 2014
 
 - **Along Como Ave. (Carter Ave. to Luther Pl.) St. Paul**
