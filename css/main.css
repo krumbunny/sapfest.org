@@ -189,8 +189,8 @@ textarea, input {
 .contenttable aside {
   display: table-cell;
 }
-.contenttable article { width: 65%; }
-.contenttable aside { width: 35%; }
+.contenttable article { width: 55%; }
+.contenttable aside { width: 45%; }
 
 #andersen {
   width: 400px;
