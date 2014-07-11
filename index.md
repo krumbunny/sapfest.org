@@ -4,15 +4,24 @@ top_menu_id: home
 ---
 ## Thank you!
 
-Hearty thanks to all of the artists, volunteers, vendors and visitors who turned out on Saturday. 
+Hearty thanks to all of the artists, volunteers, vendors and visitors 
+who turned out for the 2014 Arts Festival. We hope to see you all again in 2015!
 
-We hope to see you all again in 2015!
+## Awards for 2014
 
-## Saturday, June 7, 2014
+We are pleased to offer a Best of Show award of $400, plus three merit awards of $200 each, 
+made possible by a grant from the Harlan Boss Foundation for the Arts.
+
+Brenna Klassen-Glanzer was Best of Show. 
+Bud Bullivant, Emily Koehler and Ernest Miller were our Merit award winners. 
+
+[Profiles and pictures of the 2014 award winners.](/info/awards2014.html)
+
+## Festival Day: Saturday, June 6, 2015
 
 - **Along Como Ave. (Carter Ave. to Luther Pl.) St. Paul**
 - **10 am to 5 pm**
-- **[Click Here for Directions](http://localhost:4000/info/directions.html)**
+- **[Click Here for Directions](/info/directions.html)**
 
 <div class="rightpic">
   <a href="/info/Map2014.pdf">

@@ -6,13 +6,17 @@
   id: directions
   href: /info/directions.html
 
-- title: T Shirts!
-  id: shirts
-  href: /info/tshirt.html
-
 - title: Contact
   id: contact
   href: /info/contact.html
+
+- title: Awards (2014)
+  id: awards
+  href: /info/awards2014.html
+
+- title: Artists (2014)
+  id: awards
+  href: /info/artists2014.html
 
 - title: Last Year's Awards (2013)
   id: awards
