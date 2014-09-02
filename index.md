@@ -16,7 +16,7 @@ We are pleased to offer a Best of Show award of $400, plus three merit awards of
 made possible by a grant from the Harlan Boss Foundation for the Arts.
 
 Brenna Klassen-Glanzer was Best of Show. 
-Bud Bullivant, Emily Koehler and Ernest Miller were our Merit award winners. 
+Bud Bullivant, Emily Koehler and Ernest Miller were Merit award winners. 
 
 [Profiles and pictures of the 2014 award winners.](/info/awards2014.html)
 
