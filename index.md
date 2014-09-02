@@ -7,6 +7,9 @@ top_menu_id: home
 Hearty thanks to all of the artists, volunteers, vendors and visitors 
 who turned out for the 2014 Arts Festival. We hope to see you all again in 2015!
 
+Application for the 2015 festival will be accepted starting in early January.
+The festival day in 2015 will be Saturday, June 6.
+
 ## Awards for 2014
 
 We are pleased to offer a Best of Show award of $400, plus three merit awards of $200 each, 
