@@ -8,7 +8,7 @@ menu_title: Awards 2013
 ## 2014 Artist Awards
 
 We are pleased to offer a Best of Show award of $400, plus three merit awards of $200 each, 
-made possible by a grant from the Harlan Boss Foundation for the Arts.
+made possible by a generous grant from the Harlan Boss Foundation for the Arts.
 
 ### Best of Show
 
