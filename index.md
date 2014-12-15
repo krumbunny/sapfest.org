@@ -2,7 +2,16 @@
 layout: home 
 top_menu_id: home
 ---
-## Thank you!
+## Applications for 2015
+
+Artist applications for 2015 will be accepted online 
+at this website starting on January 5, 2015. 
+We have some exciting featured artists for 2015 that we will be announcing soon. 
+Please visit us again in the new year!
+
+The 2015 application deadline will be March 6, 2015.
+
+## 2014 Thank you!
 
 Hearty thanks to all of the artists, volunteers, vendors and visitors 
 who turned out for the 2014 Arts Festival. We hope to see you all again in 2015!
